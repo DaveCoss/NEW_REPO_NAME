@@ -4,6 +4,7 @@ module.exports = {
     author: "Hunter Chang",
     description: "A Gatsby.js Starter based on Stellar by HTML5 UP"
   },
+  plugins: [`gatsby-plugin-netlify-cms`],
   plugins: [
     'gatsby-plugin-react-helmet',
     {
